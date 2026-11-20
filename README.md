@@ -13,8 +13,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/user-attachments/assets/7f44b1e7-693a-4f49-94dd-dacde1ee85b6">
-    <img src="assets/now-playing.svg" width="620" alt="Play Human by Rag'n'Bone Man"/>
+  <a href="https://warismittal.github.io/warismittal/">
+    <img src="assets/now-playing.svg" width="620" alt="Play Human">
   </a>
 </p>
 
