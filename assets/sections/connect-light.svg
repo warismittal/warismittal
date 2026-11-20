@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="96" viewBox="0 0 900 96">
+<style>.n{font-family:'SF Mono','JetBrains Mono',Menlo,Consolas,monospace;font-size:20px;letter-spacing:3px;fill:#1a7f4b}.t{font-family:'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif;font-size:40px;font-weight:800;letter-spacing:-1px;fill:#1f2328}.s{font-family:'SF Mono','JetBrains Mono',Menlo,Consolas,monospace;font-size:17px;letter-spacing:1.5px;fill:#656d76}
+.in{opacity:0;animation:in .9s ease forwards}.d2{animation-delay:.25s}.d3{animation-delay:.5s}@keyframes in{from{opacity:0;transform:translateX(-10px)}to{opacity:1;transform:none}}
+.cur{animation:bl 1s steps(1) infinite}@keyframes bl{50%{opacity:0}}</style>
+<text class="n in" x="2" y="40">06</text>
+<text class="t in d2" x="66" y="44">Let&#39;s connect</text>
+<text class="s in d3" x="68" y="80">ideas worth bringing to life<tspan class="cur" fill="#1a7f4b"> ▍</tspan></text>
+</svg>
