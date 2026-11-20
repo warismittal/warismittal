@@ -13,19 +13,13 @@
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/results?search_query=Rag%27n%27Bone+Man+Human+Official+Video"><img src="assets/now-playing.svg" width="620" alt="Now playing: Human by Rag'n'Bone Man"/></a><br/>
-  <a href="https://open.spotify.com/search/Human%20Rag'n'Bone%20Man"><img src="https://img.shields.io/badge/Spotify-0d1117?style=flat-square&logo=spotify&logoColor=1DB954" alt="Spotify"/></a>
-  <a href="https://www.youtube.com/results?search_query=Rag%27n%27Bone+Man+Human+Official+Video"><img src="https://img.shields.io/badge/YouTube-0d1117?style=flat-square&logo=youtube&logoColor=FF0000" alt="YouTube"/></a>
+  <a href="https://github.com/user-attachments/assets/7f44b1e7-693a-4f49-94dd-dacde1ee85b6">
+    <img src="assets/now-playing.svg" width="620" alt="Play Human by Rag'n'Bone Man"/>
+  </a>
 </p>
 
 <!-- MUSIC VIDEO: paste your GitHub video link on the next line -->
 
-<video
-  src="https://github.com/user-attachments/assets/7f44b1e7-693a-4f49-94dd-dacde1ee85b6"
-  controls
-  width="620"
-  preload="metadata">
-</video>
 
 
 <p align="center"><img src="assets/highlights.svg" width="100%" alt="highlights"/></p>
