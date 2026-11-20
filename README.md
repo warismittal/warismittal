@@ -1,10 +1,9 @@
-<!-- Header swaps itself by the hour (IST): sunrise · day · sunset · night — see .github/workflows/scene.yml -->
 <p align="center">
   <img src="assets/header.svg" width="100%" alt="Waris — Artist, Engineer, Builder of expressive technology"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=7CFFCB&center=true&vCenter=true&width=720&lines=Sketching+ideas.+Shipping+systems.;Where+pencil+strokes+meet+pull+requests.;Teaching+machines+to+read+handwriting+and+spot+fakes.;This+header+changes+with+the+sun+in+India+%E2%98%80%EF%B8%8F%F0%9F%8C%99" alt="typing intro"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=7CFFCB&center=true&vCenter=true&width=720&lines=Sketching+ideas.+Shipping+systems.;Where+pencil+strokes+meet+pull+requests.;Teaching+machines+to+read+handwriting+and+spot+fakes.;Painting+with+pixels%2C+thinking+in+tensors." alt="Sketching ideas. Shipping systems."/>
 </p>
 
 <p align="center">
@@ -15,52 +14,34 @@
 
 <p align="center"><img src="assets/highlights.svg" width="100%" alt="highlights"/></p>
 
-<br/>
+<p align="center"><img src="assets/chase-1.svg" width="100%" alt=""/></p>
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="assets/sections/about-light.svg"/>
   <img src="assets/sections/about-dark.svg" width="560" alt="01 About"/>
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="assets/portrait-light.svg"/>
-  <img src="assets/portrait-dark.svg" align="right" width="330" alt="Waris, drawn in contribution squares"/>
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="assets/about-light.svg"/>
+    <img src="assets/about-dark.svg" width="100%" alt="Hi, I'm Waris. I draw, I code, and I live where the two meet."/>
+  </picture>
+</p>
 
-### Hi, I'm Waris — I draw, I code, and I live where the two meet.
-
-I blend an illustrator's eye with an engineer's logic to turn abstract ideas into digital experiences people can actually *feel*.
-
-Sketchbooks, design files, neural nets, terminals — I move between them constantly, experimenting with ways to make technology more **expressive**, **intuitive**, and **human**.
-
-Curiosity is the engine. Craft is the standard. If it doesn't stand out, it isn't finished.
-
-🤝 **Open to collaborations** with builders, designers, and anyone carrying an idea worth bringing to life.
-
-```yaml
-waris:
-  studying:  B.Tech CSE @ Thapar Institute (class of 2028)
-  drawing:   freelance portrait illustrator since 2018
-  building:  [HMER, Deepfake Detector, QueryAI, VARWIX]
-  leading:   TEDxTIET — Executive Lead, Creativity & Logistics
-  won:       [JPMC Code for Good (runner-up), HackThu (runner-up), InnovateX (winner)]
-  fuel:      late nights, sketch pens, one more coffee
-```
-
-<br clear="right"/>
 <br/>
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="assets/sections/story-light.svg"/>
-  <img src="assets/sections/story-dark.svg" width="560" alt="02 Story mode"/>
+  <img src="assets/sections/story-dark.svg" width="560" alt="02 After hours"/>
 </picture>
 
 <p align="center">
-  <img src="assets/story.svg" width="100%" alt="Byte the robot and Spark the firefly greet you, then get back to work"/>
+  <img src="assets/story.svg" width="100%" alt="Byte the robot and Spark the firefly"/>
 </p>
-<p align="center"><sub>Byte and Spark live here. Every time this page opens, they notice you. Refresh to watch again.</sub></p>
 
 <br/>
+
+<p align="center"><img src="assets/chase-2.svg" width="100%" alt=""/></p>
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="assets/sections/stack-light.svg"/>
@@ -68,28 +49,7 @@ waris:
 </picture>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,cpp,c,ts,js&theme=dark" alt="LANGUAGES"/><br/>
-  <sub><code>&nbsp;LANGUAGES&nbsp;</code></sub>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css,figma,blender,ps&theme=dark" alt="FRONTEND · CREATIVE"/><br/>
-  <sub><code>&nbsp;FRONTEND · CREATIVE&nbsp;</code></sub>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,mysql,postgres&theme=dark" alt="BACKEND · DATA"/><br/>
-  <sub><code>&nbsp;BACKEND · DATA&nbsp;</code></sub>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&theme=dark" alt="AI · ML"/><br/>
-  <sub><code>&nbsp;AI · ML&nbsp;</code></sub>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,git,github&theme=dark" alt="DEVOPS · TOOLS"/><br/>
-  <sub><code>&nbsp;DEVOPS · TOOLS&nbsp;</code></sub>
+  <img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind,threejs,java,spring,py,postgres,mysql,docker,vercel,git,github&perline=7&theme=dark" alt="React, TypeScript, Vite, Tailwind, Three.js, Java, Spring Boot, Python, PostgreSQL, MySQL, Docker, Vercel, Git, GitHub"/>
 </p>
 
 <br/>
@@ -103,8 +63,7 @@ waris:
   <tr>
     <td width="50%" valign="top">
       <h4>✍️ <a href="https://github.com/warismittal/hmer">HMER</a> — handwriting → LaTeX</h4>
-      <sub>CNN encoder + Transformer decoder trained on CROHME. Draw an equation, get clean LaTeX back.<br/>
-      <b>44.4% ExpRate</b> on CROHME 2014 with beam search, plus a draw-or-upload Gradio demo.</sub><br/><br/>
+      <sub>CNN encoder + Transformer decoder trained on CROHME. Draw an equation, get clean LaTeX back.<br/><b>44.4%</b> ExpRate on CROHME 2014 · <b>42.5%</b> on CROHME 2019 (beam 10).</sub><br/><br/>
       <img src="https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=39d353"/> <img src="https://img.shields.io/badge/Transformer-0d1117?style=flat-square"/> <img src="https://img.shields.io/badge/Gradio-0d1117?style=flat-square"/>
     </td>
     <td width="50%" valign="top">
@@ -115,9 +74,21 @@ waris:
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <h4>🏘️ <a href="https://ideociety.vercel.app">Ideociety</a> — the society that runs itself</h4>
+      <sub>Smart residential society platform — residents, admins and explainable AI in one place. Live on Vercel, Render and Neon.</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Spring%20Boot-0d1117?style=flat-square&logo=springboot&logoColor=39d353"/> <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=7cffcb"/> <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=26a641"/>
+    </td>
+    <td width="50%" valign="top">
       <h4>💬 QueryAI — talk to your data</h4>
       <sub>Text-to-SQL analytics platform: ask a question in plain English, get the query, the result and the chart.</sub><br/><br/>
       <img src="https://img.shields.io/badge/Spring%20Boot-0d1117?style=flat-square&logo=springboot&logoColor=39d353"/> <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=7cffcb"/> <img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=26a641"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🐉 Grabito — grab the goodness</h4>
+      <sub>Food discovery and ordering where searching a dish opens a cinematic 3D story — and menus turn into living 3D showcases.</sub><br/><br/>
+      <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=7cffcb"/> <img src="https://img.shields.io/badge/Three.js-0d1117?style=flat-square&logo=threedotjs&logoColor=f0f6fc"/> <img src="https://img.shields.io/badge/Spring%20Boot-0d1117?style=flat-square&logo=springboot&logoColor=39d353"/>
     </td>
     <td width="50%" valign="top">
       <h4>📈 VARWIX — finance meets ML</h4>
@@ -128,6 +99,8 @@ waris:
 </table>
 
 <br/>
+
+<p align="center"><img src="assets/chase-3.svg" width="100%" alt=""/></p>
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="assets/sections/activity-light.svg"/>
@@ -165,7 +138,6 @@ waris:
 <p align="center">
   <a href="mailto:warismittal40@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=39d353" alt="Email"/></a>
   <a href="https://github.com/warismittal"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=7cffcb" alt="GitHub"/></a>
-  <!-- Replace YOUR-LINKEDIN with your LinkedIn handle -->
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=26a641" alt="LinkedIn"/></a>
 </p>
 

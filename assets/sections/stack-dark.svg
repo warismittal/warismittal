@@ -4,5 +4,5 @@
 .cur{animation:bl 1s steps(1) infinite}@keyframes bl{50%{opacity:0}}</style>
 <text class="n in" x="2" y="40">03</text>
 <text class="t in d2" x="66" y="44">Stack</text>
-<text class="s in d3" x="68" y="80">what I reach for, grouped by where it lives<tspan class="cur" fill="#7cffcb"> ▍</tspan></text>
+<text class="s in d3" x="68" y="80">the tools behind the things I've built<tspan class="cur" fill="#7cffcb"> ▍</tspan></text>
 </svg>
