@@ -20,6 +20,13 @@
 
 <!-- MUSIC VIDEO: paste your GitHub video link on the next line -->
 
+<video
+  src="https://github.com/user-attachments/assets/7f44b1e7-693a-4f49-94dd-dacde1ee85b6"
+  controls
+  width="620"
+  preload="metadata">
+</video>
+
 
 <p align="center"><img src="assets/highlights.svg" width="100%" alt="highlights"/></p>
 
