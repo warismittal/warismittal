@@ -12,6 +12,12 @@
   <a href="mailto:warismittal40@gmail.com"><img src="https://img.shields.io/badge/say%20hello-warismittal40%40gmail.com-7cffcb?style=flat-square&labelColor=0d1117" alt="email"/></a>
 </p>
 
+<p align="center">
+  <a href="https://www.youtube.com/results?search_query=Rag%27n%27Bone+Man+Human+Official+Video"><img src="assets/now-playing.svg" width="620" alt="Now playing: Human by Rag'n'Bone Man"/></a><br/>
+  <a href="https://open.spotify.com/search/Human%20Rag'n'Bone%20Man"><img src="https://img.shields.io/badge/Spotify-0d1117?style=flat-square&logo=spotify&logoColor=1DB954" alt="Spotify"/></a>
+  <a href="https://www.youtube.com/results?search_query=Rag%27n%27Bone+Man+Human+Official+Video"><img src="https://img.shields.io/badge/YouTube-0d1117?style=flat-square&logo=youtube&logoColor=FF0000" alt="YouTube"/></a>
+</p>
+
 <p align="center"><img src="assets/highlights.svg" width="100%" alt="highlights"/></p>
 
 <p align="center"><img src="assets/chase-1.svg" width="100%" alt=""/></p>
@@ -36,7 +42,7 @@
 </picture>
 
 <p align="center">
-  <img src="assets/story.svg" width="100%" alt="Byte the robot and Spark the firefly"/>
+  <img src="assets/cat-vs-mouse.svg" width="100%" alt="a cat, a mouse, and one deleted app.py"/>
 </p>
 
 <br/>

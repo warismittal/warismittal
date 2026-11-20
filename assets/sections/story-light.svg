@@ -4,5 +4,5 @@
 .cur{animation:bl 1s steps(1) infinite}@keyframes bl{50%{opacity:0}}</style>
 <text class="n in" x="2" y="40">02</text>
 <text class="t in d2" x="66" y="44">After hours</text>
-<text class="s in d3" x="68" y="80">a sleepy robot, a loyal firefly, one more coffee<tspan class="cur" fill="#1a7f4b"> ▍</tspan></text>
+<text class="s in d3" x="68" y="80">a cat, a mouse, and one deleted app.py<tspan class="cur" fill="#1a7f4b"> ▍</tspan></text>
 </svg>
