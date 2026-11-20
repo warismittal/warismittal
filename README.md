@@ -18,9 +18,12 @@
   <a href="https://www.youtube.com/results?search_query=Rag%27n%27Bone+Man+Human+Official+Video"><img src="https://img.shields.io/badge/YouTube-0d1117?style=flat-square&logo=youtube&logoColor=FF0000" alt="YouTube"/></a>
 </p>
 
+<!-- MUSIC VIDEO: paste your GitHub video link on the next line -->
+
+
 <p align="center"><img src="assets/highlights.svg" width="100%" alt="highlights"/></p>
 
-<p align="center"><img src="assets/chase-1.svg" width="100%" alt=""/></p>
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="assets/sections/about-light.svg"/>
@@ -37,21 +40,8 @@
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="assets/sections/story-light.svg"/>
-  <img src="assets/sections/story-dark.svg" width="560" alt="02 After hours"/>
-</picture>
-
-<p align="center">
-  <img src="assets/cat-vs-mouse.svg" width="100%" alt="a cat, a mouse, and one deleted app.py"/>
-</p>
-
-<br/>
-
-<p align="center"><img src="assets/chase-2.svg" width="100%" alt=""/></p>
-
-<picture>
   <source media="(prefers-color-scheme: light)" srcset="assets/sections/stack-light.svg"/>
-  <img src="assets/sections/stack-dark.svg" width="560" alt="03 Stack"/>
+  <img src="assets/sections/stack-dark.svg" width="560" alt="02 Stack"/>
 </picture>
 
 <p align="center">
@@ -62,7 +52,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="assets/sections/work-light.svg"/>
-  <img src="assets/sections/work-dark.svg" width="560" alt="04 Selected work"/>
+  <img src="assets/sections/work-dark.svg" width="560" alt="03 Selected work"/>
 </picture>
 
 <table>
@@ -106,11 +96,9 @@
 
 <br/>
 
-<p align="center"><img src="assets/chase-3.svg" width="100%" alt=""/></p>
-
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="assets/sections/activity-light.svg"/>
-  <img src="assets/sections/activity-dark.svg" width="560" alt="05 Activity"/>
+  <img src="assets/sections/activity-dark.svg" width="560" alt="04 Activity"/>
 </picture>
 
 <p align="center">
@@ -138,7 +126,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="assets/sections/connect-light.svg"/>
-  <img src="assets/sections/connect-dark.svg" width="560" alt="06 Let's connect"/>
+  <img src="assets/sections/connect-dark.svg" width="560" alt="05 Let's connect"/>
 </picture>
 
 <p align="center">
