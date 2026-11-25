@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Waris — Artist, Engineer, Builder of expressive technology"/>
+  <img src="https://waris-sky.vercel.app/api/sky?a=header" width="100%" alt="Waris — Artist, Engineer, Builder of expressive technology"/>
 </p>
 
 <p align="center">
@@ -13,13 +13,12 @@
 </p>
 
 <p align="center">
-  <a href="https://warismittal.github.io/warismittal/">
-    <img src="assets/now-playing.svg" width="620" alt="Play Human">
-  </a>
+  <a href="https://www.youtube.com/results?search_query=Rag%27n%27Bone+Man+Human+Official+Video"><img src="assets/now-playing.svg" width="620" alt="Now playing: Human by Rag'n'Bone Man"/></a><br/>
+  <a href="https://open.spotify.com/search/Human%20Rag'n'Bone%20Man"><img src="https://img.shields.io/badge/Spotify-0d1117?style=flat-square&logo=spotify&logoColor=1DB954" alt="Spotify"/></a>
+  <a href="https://www.youtube.com/results?search_query=Rag%27n%27Bone+Man+Human+Official+Video"><img src="https://img.shields.io/badge/YouTube-0d1117?style=flat-square&logo=youtube&logoColor=FF0000" alt="YouTube"/></a>
 </p>
 
 <!-- MUSIC VIDEO: paste your GitHub video link on the next line -->
-
 
 
 <p align="center"><img src="assets/highlights.svg" width="100%" alt="highlights"/></p>
@@ -33,8 +32,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="assets/about-light.svg"/>
-    <img src="assets/about-dark.svg" width="100%" alt="Hi, I'm Waris. I draw, I code, and I live where the two meet."/>
+    <source media="(prefers-color-scheme: light)" srcset="https://waris-sky.vercel.app/api/sky?a=about-light"/>
+    <img src="https://waris-sky.vercel.app/api/sky?a=about-dark" width="100%" alt="Hi, I'm Waris. I draw, I code, and I live where the two meet."/>
   </picture>
 </p>
 
@@ -136,4 +135,4 @@
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=26a641" alt="LinkedIn"/></a>
 </p>
 
-<p align="center"><img src="assets/footer.svg" width="100%" alt="Thanks for stopping by"/></p>
+<p align="center"><img src="https://waris-sky.vercel.app/api/sky?a=footer" width="100%" alt="Thanks for stopping by"/></p>
