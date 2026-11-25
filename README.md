@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://waris-sky.vercel.app/api/sky?a=header" width="100%" alt="Waris — Artist, Engineer, Builder of expressive technology"/>
+  <img src="assets/header.svg" width="100%" alt="Waris — Artist, Engineer, Builder of expressive technology"/>
 </p>
 
 <p align="center">
@@ -32,8 +32,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://waris-sky.vercel.app/api/sky?a=about-light"/>
-    <img src="https://waris-sky.vercel.app/api/sky?a=about-dark" width="100%" alt="Hi, I'm Waris. I draw, I code, and I live where the two meet."/>
+    <source media="(prefers-color-scheme: light)" srcset="assets/about-light.svg"/>
+    <img src="assets/about-dark.svg" width="100%" alt="Hi, I'm Waris. I draw, I code, and I live where the two meet."/>
   </picture>
 </p>
 
@@ -135,4 +135,4 @@
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=26a641" alt="LinkedIn"/></a>
 </p>
 
-<p align="center"><img src="https://waris-sky.vercel.app/api/sky?a=footer" width="100%" alt="Thanks for stopping by"/></p>
+<p align="center"><img src="assets/footer.svg" width="100%" alt="Thanks for stopping by"/></p>

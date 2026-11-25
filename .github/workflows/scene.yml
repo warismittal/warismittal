@@ -1,0 +1,36 @@
+name: Day / night scene
+
+on:
+  workflow_dispatch:          # triggered every 15 min by cron-job.org (reliable)
+  schedule:
+    - cron: "7 * * * *"       # GitHub's own timer, kept only as a backup
+
+permissions:
+  contents: write
+
+concurrency:
+  group: scene
+  cancel-in-progress: false
+
+jobs:
+  switch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Pick the scene for the current IST time
+        id: scene
+        run: bash scripts/set-scene.sh
+
+      - name: Commit only when the scene changed
+        run: |
+          if git diff --quiet; then
+            echo "Scene unchanged"
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/header.svg assets/about-dark.svg assets/about-light.svg assets/footer.svg
+          git commit -m "scene: ${{ steps.scene.outputs.mode }}"
+          git push
